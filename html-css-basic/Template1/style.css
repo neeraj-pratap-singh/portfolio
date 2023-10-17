@@ -1,3 +1,6 @@
+.nav-link {
+    color: lightgrey !important; /* Using !important to override any existing styles */
+}
 /* hero background image */
 .bgimage {
     height:100vh;
